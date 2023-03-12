@@ -1,2 +1,2 @@
-# navigation
+# Navigation
 My navigation 
